@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.Form1.resources
+C:\Users\Admin\source\repos\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.Properties.Resources.resources
+C:\Users\Admin\source\repos\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DataGridViewExample\DataGridViewExample\bin\Debug\DataGridViewExample.exe.config
+C:\Users\Admin\source\repos\DataGridViewExample\DataGridViewExample\bin\Debug\DataGridViewExample.exe
+C:\Users\Admin\source\repos\DataGridViewExample\DataGridViewExample\bin\Debug\DataGridViewExample.pdb
+C:\Users\Admin\source\repos\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.exe
+C:\Users\Admin\source\repos\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.pdb
+C:\Users\Admin\source\repos\DataGridViewExample\DataGridViewExample\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Admin\source\repos\DataGridViewExample\DataGridViewExample\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Admin\source\repos\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.csproj.CopyComplete

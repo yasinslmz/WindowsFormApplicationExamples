@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\SchoolProject\SchoolProject\bin\Debug\SchoolProject.exe.config
+C:\Users\Admin\source\repos\SchoolProject\SchoolProject\bin\Debug\SchoolProject.exe
+C:\Users\Admin\source\repos\SchoolProject\SchoolProject\bin\Debug\SchoolProject.pdb
+C:\Users\Admin\source\repos\SchoolProject\SchoolProject\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Admin\source\repos\SchoolProject\SchoolProject\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Admin\source\repos\SchoolProject\SchoolProject\obj\Debug\SchoolProject.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\SchoolProject\SchoolProject\obj\Debug\SchoolProject.Form1.resources
+C:\Users\Admin\source\repos\SchoolProject\SchoolProject\obj\Debug\SchoolProject.Properties.Resources.resources
+C:\Users\Admin\source\repos\SchoolProject\SchoolProject\obj\Debug\SchoolProject.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\SchoolProject\SchoolProject\obj\Debug\SchoolProject.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SchoolProject\SchoolProject\obj\Debug\SchoolProject.csproj.CopyComplete
+C:\Users\Admin\source\repos\SchoolProject\SchoolProject\obj\Debug\SchoolProject.exe
+C:\Users\Admin\source\repos\SchoolProject\SchoolProject\obj\Debug\SchoolProject.pdb
