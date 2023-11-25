@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\SimpleAddUserExample\SimpleAddUserExample\bin\Debug\SimpleAddUserExample.exe.config
+C:\Users\Admin\source\repos\SimpleAddUserExample\SimpleAddUserExample\bin\Debug\SimpleAddUserExample.exe
+C:\Users\Admin\source\repos\SimpleAddUserExample\SimpleAddUserExample\bin\Debug\SimpleAddUserExample.pdb
+C:\Users\Admin\source\repos\SimpleAddUserExample\SimpleAddUserExample\obj\Debug\SimpleAddUserExample.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\SimpleAddUserExample\SimpleAddUserExample\obj\Debug\SimpleAddUserExample.Form1.resources
+C:\Users\Admin\source\repos\SimpleAddUserExample\SimpleAddUserExample\obj\Debug\SimpleAddUserExample.Properties.Resources.resources
+C:\Users\Admin\source\repos\SimpleAddUserExample\SimpleAddUserExample\obj\Debug\SimpleAddUserExample.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\SimpleAddUserExample\SimpleAddUserExample\obj\Debug\SimpleAddUserExample.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SimpleAddUserExample\SimpleAddUserExample\obj\Debug\SimpleAddUserExample.exe
+C:\Users\Admin\source\repos\SimpleAddUserExample\SimpleAddUserExample\obj\Debug\SimpleAddUserExample.pdb

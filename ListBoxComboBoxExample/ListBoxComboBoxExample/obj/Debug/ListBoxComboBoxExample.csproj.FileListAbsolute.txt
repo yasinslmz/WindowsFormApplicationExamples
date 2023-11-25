@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\ListBoxComboBoxExample\ListBoxComboBoxExample\bin\Debug\ListBoxComboBoxExample.exe.config
+C:\Users\Admin\source\repos\ListBoxComboBoxExample\ListBoxComboBoxExample\bin\Debug\ListBoxComboBoxExample.exe
+C:\Users\Admin\source\repos\ListBoxComboBoxExample\ListBoxComboBoxExample\bin\Debug\ListBoxComboBoxExample.pdb
+C:\Users\Admin\source\repos\ListBoxComboBoxExample\ListBoxComboBoxExample\obj\Debug\ListBoxComboBoxExample.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ListBoxComboBoxExample\ListBoxComboBoxExample\obj\Debug\ListBoxComboBoxExample.Form1.resources
+C:\Users\Admin\source\repos\ListBoxComboBoxExample\ListBoxComboBoxExample\obj\Debug\ListBoxComboBoxExample.Properties.Resources.resources
+C:\Users\Admin\source\repos\ListBoxComboBoxExample\ListBoxComboBoxExample\obj\Debug\ListBoxComboBoxExample.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\ListBoxComboBoxExample\ListBoxComboBoxExample\obj\Debug\ListBoxComboBoxExample.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ListBoxComboBoxExample\ListBoxComboBoxExample\obj\Debug\ListBoxComboBoxExample.exe
+C:\Users\Admin\source\repos\ListBoxComboBoxExample\ListBoxComboBoxExample\obj\Debug\ListBoxComboBoxExample.pdb

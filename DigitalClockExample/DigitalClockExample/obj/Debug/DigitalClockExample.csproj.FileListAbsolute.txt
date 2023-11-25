@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\DigitalClockExample\DigitalClockExample\bin\Debug\DigitalClockExample.exe.config
+C:\Users\Admin\source\repos\DigitalClockExample\DigitalClockExample\bin\Debug\DigitalClockExample.exe
+C:\Users\Admin\source\repos\DigitalClockExample\DigitalClockExample\bin\Debug\DigitalClockExample.pdb
+C:\Users\Admin\source\repos\DigitalClockExample\DigitalClockExample\obj\Debug\DigitalClockExample.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\DigitalClockExample\DigitalClockExample\obj\Debug\DigitalClockExample.Form1.resources
+C:\Users\Admin\source\repos\DigitalClockExample\DigitalClockExample\obj\Debug\DigitalClockExample.Properties.Resources.resources
+C:\Users\Admin\source\repos\DigitalClockExample\DigitalClockExample\obj\Debug\DigitalClockExample.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\DigitalClockExample\DigitalClockExample\obj\Debug\DigitalClockExample.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DigitalClockExample\DigitalClockExample\obj\Debug\DigitalClockExample.exe
+C:\Users\Admin\source\repos\DigitalClockExample\DigitalClockExample\obj\Debug\DigitalClockExample.pdb

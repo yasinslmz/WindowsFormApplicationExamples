@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\FirstWinFormExample\FirstWinFormExample\bin\Debug\FirstWinFormExample.exe.config
+C:\Users\Admin\source\repos\FirstWinFormExample\FirstWinFormExample\bin\Debug\FirstWinFormExample.exe
+C:\Users\Admin\source\repos\FirstWinFormExample\FirstWinFormExample\bin\Debug\FirstWinFormExample.pdb
+C:\Users\Admin\source\repos\FirstWinFormExample\FirstWinFormExample\obj\Debug\FirstWinFormExample.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\FirstWinFormExample\FirstWinFormExample\obj\Debug\FirstWinFormExample.Form1.resources
+C:\Users\Admin\source\repos\FirstWinFormExample\FirstWinFormExample\obj\Debug\FirstWinFormExample.Properties.Resources.resources
+C:\Users\Admin\source\repos\FirstWinFormExample\FirstWinFormExample\obj\Debug\FirstWinFormExample.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\FirstWinFormExample\FirstWinFormExample\obj\Debug\FirstWinFormExample.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\FirstWinFormExample\FirstWinFormExample\obj\Debug\FirstWinFormExample.exe
+C:\Users\Admin\source\repos\FirstWinFormExample\FirstWinFormExample\obj\Debug\FirstWinFormExample.pdb
